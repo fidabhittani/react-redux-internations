@@ -1,8 +1,10 @@
 ## React Redux
 
-`How to run`
+### How to Run 
 
-Inside of the server folder type : [npm start]
+Inside of the server folder type
+-> `npm install`
+-> `npm start`
 
 Project is already Built into the Build folder.
 
